@@ -86,10 +86,6 @@ Following steps need to be followed:
    
    https://github.com/user-attachments/assets/ed198f7b-32d7-4a57-9298-7fa7144f970c
 
-   ### 🚀 Starting Backend 
-
-   ![Image](https://github.com/user-attachments/assets/c5014288-6344-4c36-9472-43d8d5777917)
-
    ### 🌐 Frontend Input
 
    ![Image](https://github.com/user-attachments/assets/88888667-dc1c-4ab0-90ab-febbff4c48c8)
@@ -97,7 +93,7 @@ Following steps need to be followed:
    ### After clicking "Predict":
    ### 📤 Backend Output
 
-   ![Image](https://github.com/user-attachments/assets/153c1f93-d2b1-44c2-8a4e-9978d76578c8)
+ <img width="1908" height="611" alt="Image" src="https://github.com/user-attachments/assets/679a6be7-90fe-46ce-9de7-933ec229a1a2" />
 
    ### 🔎 Frontend Output
 
