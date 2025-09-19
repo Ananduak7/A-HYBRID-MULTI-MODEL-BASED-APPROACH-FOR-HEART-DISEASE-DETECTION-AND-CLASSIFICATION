@@ -79,7 +79,7 @@ Following steps need to be followed:
    ### 🛬 Landing Page Layout
 
    <p align="center">
-  <img src="https://github.com/user-attachments/assets/bbb2f416-0bf0-496b-8665-8f5323fc3fd0" alt="App Screenshot" width="100%">
+  <img width="1899" height="862" alt="Image" src="https://github.com/user-attachments/assets/5cfdb61b-d81e-4bf4-8f5b-1985b0638d28" />
 </p>
     
    ### 🚀 User Interface Video
