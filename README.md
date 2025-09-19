@@ -88,7 +88,7 @@ Following steps need to be followed:
 
    ### 🌐 Frontend Input
 
-   ![Image](https://github.com/user-attachments/assets/88888667-dc1c-4ab0-90ab-febbff4c48c8)
+  <img width="1903" height="857" alt="Image" src="https://github.com/user-attachments/assets/69cd2350-8f11-4aaf-bbc1-77c6baa89957" />
 
    ### After clicking "Predict":
    ### 📤 Backend Output
@@ -97,7 +97,7 @@ Following steps need to be followed:
 
    ### 🔎 Frontend Output
 
-   ![Image](https://github.com/user-attachments/assets/a60c5484-a2f6-402a-9bc6-e65c2929ffc2)
+   <img width="1912" height="863" alt="Image" src="https://github.com/user-attachments/assets/05da05d6-afbc-4f7f-bb2b-caf7a38e8e02" />
   
    ### 📊 Each Model Accuracy 
    
